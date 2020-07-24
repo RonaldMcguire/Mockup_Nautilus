@@ -8,6 +8,8 @@ export default class Channel extends Component {
 render(){
   return (
     <div className= "Channel">
+      <div className = "landing-map">
+        <img src={matches} alt = "matches" />
 
 
     </div>
