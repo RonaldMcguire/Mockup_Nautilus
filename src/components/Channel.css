@@ -1,0 +1,12 @@
+.Channel{
+    display: flex;
+    position: relative;
+}
+
+.landing-map{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+
