@@ -15,7 +15,11 @@ render(){
           <h1>Catalysts</h1>
           <h3>Agents of change</h3>
           <h3>Read more</h3>
+          <button className = "landing-button">See full Issue</button>
 
+        </div>
+
+        </div> 
 
     </div>
   );
