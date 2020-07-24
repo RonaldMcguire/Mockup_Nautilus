@@ -8,7 +8,26 @@
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    
-    
+    width: 100%;
+    position: relative;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.Landing-page{
+    position: absolute;
+    text-align: center;
+    color: white;
+
+}
+
+.landing-button{
+    background-color: black;
+    border-color: black;
+    color: white;
+    height: 30px;
+    align-items: center;
 }
 
